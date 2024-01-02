@@ -101,7 +101,7 @@ const Filters = () => {
         Favorite
       </h1>
       <div className="h-[71px]" />
-      <h1 className="text-[16px] font-normal text-[#404e7c] flex flex-row items-center gap-[12px] border-b-2 border-[#6C759D] w-[57%] ">
+      <h1 className="text-[16px] font-normal text-[#404e7c] flex flex-row items-center gap-[12px] border-b-2 border-[#6C759D] w-48 ">
         Sortare (mod implicit) <BsArrowDown className="text-[#404e7c]" />
       </h1>
 

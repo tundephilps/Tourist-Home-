@@ -1,0 +1,26 @@
+.pagination {
+  display: flex;
+  align-items: center;
+}
+
+.pagination-button {
+  padding: 8px;
+  margin: 0 4px;
+  color: "#AFAFAF";
+  border: none;
+  cursor: pointer;
+}
+
+.pagination-button.active {
+  color: black;
+}
+
+.pagination-arrow {
+  padding: 8px;
+  margin: 0 4px;
+  color: "#6C759D";
+  border: none;
+  cursor: pointer;
+}
+
+/* Add more styling as needed */
